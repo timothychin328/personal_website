@@ -1,2 +1,2 @@
-# personal_website
-Personal Website for Professional and Academic Development
+# Personal Website
+Timothy Chin's Personal Website for Professional and Academic Development
