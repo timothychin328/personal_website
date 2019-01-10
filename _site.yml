@@ -2,13 +2,15 @@ name: "timothy-chin-website"
 output_dir: "."
 navbar:
   title: "Timothy Chin's Website"
-  left:
+  right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
     - text: "Projects"
       href: projects.html
+    - text: "Statistics Resources"
+      href: resources.html      
 output:
   html_document:
     theme: flatly

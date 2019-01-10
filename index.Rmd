@@ -5,3 +5,5 @@ title: "Timothy Chin"
 ![](Timothy Chin.jpg)
 
 Hi, I’m Tim and I’m currently pursuing my MS in Statistics at the University of Illinois at Urbana-Champaign. I graduated UIUC with a bachelor’s degree in Statistics and Economics in December of 2018. I am also a Modeling and Analytics Graduate Network (MAGNet) intern for State Farm Insurance at Research Park in Champaign, IL. Thank you for visiting my website, please feel free to contact me with any questions!
+
+**TEXT HERE!**

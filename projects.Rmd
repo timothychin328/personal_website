@@ -2,6 +2,7 @@ Project info here
 
 
 **Thank you to the following websites for helping me out: **
+
 [Tutorial: Nick Strayer](http://nickstrayer.me/RMarkdown_Sites_tutorial/)
 
 [Other Website: Emily Zabor](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)

@@ -2,4 +2,10 @@
 title: "About"
 ---
 
-Why I am awesome.
+Could shift the following here
+Extended Bio
+CV/Resume
+LinkedIn and GitHub (TBD)
+Department of Statistics Website
+State Farm RDC Website
+Project Descriptions or Courses taken
