@@ -1,34 +1,52 @@
 ---
-title: "About"
+title: "Background"
 ---
+
+![](Timothy Chin.png)
   
-I am a first-year Master's student in [Statistics](stat.illinois.edu) at the University of Illinois. My industry experience invovled working as an undergraduate intern in [State Farm Insurance's](statefarm.com) Property and Casualty Actuarial department from 2017-2018. Starting from January 2019, I have been a Modeling and Analytics Graduate Network (MAGNet) intern in State Farm's Strategic Resources department. Both these internships are located at [State Farm's Research and Development Center](https://rdc.statefarm/#!/home) in Champaign, IL.  
+I am a first-year master's student in [Statistics](https://stat.illinois.edu/academics/graduate-programs/degree-programs/ms-statistics) at the University of Illinois. 
   
-My undergraduate research experience involved working with Clinical Professor of Economics Jose Vazquez on the economics of education. 
+From 2017-2018, I worked as an undergraduate intern in [State Farm Insurance's](https://www.statefarm.com/) Property and Casualty Actuarial department from 2017-2018 while completing my bachelor's degree. Starting from January 2019, I have been a MAGNet intern in State Farm's Strategic Resources department. Both these internships are located at [State Farm's Research and Development Center](https://rdc.statefarm/#!/home) in Champaign, IL.  
+  
+My undergraduate research experience involved working with Clinical Professor of Economics [Jose Vazquez](https://chroniclevitae.com/people/194561-jose-vazquez/profile) on the economics of education. 
 
-For more details on my work, please see the "Projects" tab.
+For more details on my work, please see the ["Projects"](https://timothychin328.github.io/website/projects.html) tab.
 
 
+### Courses
+  
 Here is a summary of the electives that I have taken in my fields of study at the University of Illinois.
 
-**Economics:**  
+#### [**Economics:**](economics.illinois.edu)  
 - ECON 414: Urban Economics  
 - ECON 471: Applied Econometrics  
 - ECON 474: Econometrics of Policy Evaluation  
 - ECON 490: Financial Economics  
 
-**Statistics:**  
-- [STAT 385: Statistical Programming Methods](stat385.stat.illinois.edu)  
+#### [**Statistics:**](stat.illinois.edu)  
+- [STAT 385: Statistical Programming Methods](http://stat385.stat.illinois.edu/)  
 - STAT 425: Applied Regression and Design  
-- [STAT 430: Machine Learning Financial Data](https://www.larryhua.com/teaching/)  
+- [STAT 430: Machine Learning for Financial Data](https://www.larryhua.com/teaching/) - current  
 - [STAT 432: Basics of Statistical Learning](https://daviddalpiaz.github.io/stat432sp18/)  
 - STAT 440: Statistical Data Management  
 - STAT 448: Advanced Data Analysis  
-- STAT 541: Predictive Analytics  
-- [STAT 542: Statistical Learning](https://publish.illinois.edu/liangf/teaching/stat-542/)
+- STAT 541: Predictive Analytics - current  
+- [STAT 542: Statistical Learning](https://publish.illinois.edu/liangf/teaching/stat-542/) - current  
+
+### Honors and Awards
+- Dean's List, UIUC College of Liberal Arts & Sciences (May 2018)
+- [Economics Service Award](https://economics.illinois.edu/resources/awards-scholarships/undergraduate/service-award), UIUC Department of Economics (May 2018)
+- [Experiential Learning Award](https://economics.illinois.edu/resources/awards-scholarships/undergraduate/experiential-learning-award), UIUC Department of Economics (May 2018)
+- [Conference Travel Grant](http://undergradresearch.illinois.edu/students/funding.html#TOC_CTGC), UIUC Office of Undergraduate Reseach (Nov. 2017)
+- [Honors Research Scholarship](https://economics.illinois.edu/resources/awards-scholarships/undergraduate/honors-research-scholarship), UIUC Department of Economics (May 2017)
+- [Certificate in Data Science](https://stat.illinois.edu/academics/undergraduate-program/degree-programs/certificate-data-science), UIUC Department of Statistics (May 2017)
 
 
+### Interests and Hobbies 
 
+During my free time, I am involved in UIUC's [Statistics Club](https://stat.illinois.edu/illini-statistics-club), [Krannert Center Student Association](http://kcsa.illinois.edu/), and [Illini Dancesport](https://publish.illinois.edu/illinidancesport/).
+
+During my undergraduate years, I was also an [Economics Department Ambassador](https://economics.illinois.edu/academics/undergraduate-program/student-groups/econ-ambassadors/past-economics-ambassadors) and a member of [Design for America](https://dfaillinois.com/index.html).
 
 
 

@@ -2,20 +2,34 @@
 title: "Projects"
 ---
 
-
 ### Internship Description
 
+**Data Science Methods and GLM Comparison**
 
+    
+**Auto and Homeowners Econometric Modeling**
+  
+  
+**Telematics Data Analysis**
+  
+    
 ### Research Description
 
+[**Effect of Proctoring Methods in an Introductory Microeconomics Course**](https://www.southerneconomic.org/conference-2017/)
+  
+  
+  
+### Indepedent Study
 
-**Thank you to the following websites for helping me out: **
+[**Study Abroad in Sao Paulo and Rio de Janeiro, Brazil (Spring 2018)**](https://economics.illinois.edu/academics/undergraduate-program/study-abroad/econ-faculty-led-short-term/previous-faculty-led)
 
-[Tutorial: Nick Strayer](http://nickstrayer.me/RMarkdown_Sites_tutorial/)
+- [*Capstone Project*](https://economics.illinois.edu/system/files/inline-files/Tim%20Brazil%20Final%20Project%20-%20Timothy%20Chin.pdf)
 
-[Other Website: Emily Zabor](https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html)
+[**R Independent Study (Spring 2016)**](https://ytliu0.github.io/Stat390EF-R-Independent-Study-archive/index.html)
 
-[Bookdown](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)
 
-[RStudio](https://rmarkdown.rstudio.com/lesson-13.html)
+
+
+
+
 

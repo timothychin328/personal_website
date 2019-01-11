@@ -4,14 +4,39 @@ title: "Statistics Resources"
 
 ### Textbooks
 
+Mathematical Statistics: Old School (theory, used for STAT 510)
+ISLR / ESL (machine learning methods, used for 432 and 542)
+DLR (deep learning, used for 430 MLFD)
+
 
 ### R Resources
 
+Hadley Wickham Book
+ggplot2 guide
+shiny guide
+R Cheatsheets
 
 ### SAS Resources
 
+HP Procedures
+ODS graphics designer
+SAS Studio
+Other SAS Resources
 
 ### GitHub Resources
+
+See Starred repositories
+
+TO-DO: Add PDFs to resume, cv, data science certificate, other awards (if I can find them). Add coding languages and proficiencies. Add more links to study abroad work or econ awards. Add former affiliations (Econ Ambassadors and DFA)
+
+```{r}
+summary(mtcars$mpg)
+```
+
+```{r}
+# ggplot(mtcars, aes(cyl)) + geom_bar()
+```
+
 
 
 
