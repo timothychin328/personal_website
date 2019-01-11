@@ -1,21 +1,34 @@
 ---
 title: "About"
 ---
+  
+I am a first-year Master's student in [Statistics](stat.illinois.edu) at the University of Illinois. My industry experience invovled working as an undergraduate intern in [State Farm Insurance's](statefarm.com) Property and Casualty Actuarial department from 2017-2018. Starting from January 2019, I have been a Modeling and Analytics Graduate Network (MAGNet) intern in State Farm's Strategic Resources department. Both these internships are located at [State Farm's Research and Development Center](https://rdc.statefarm/#!/home) in Champaign, IL.  
+  
+My undergraduate research experience involved working with Clinical Professor of Economics Jose Vazquez on the economics of education. 
 
-### Internship Description
-
-
-**Machine Learning and Data Science Comparison Project**
-
-
-**Auto and Homeowners' Econometrics Project**
+For more details on my work, please see the "Projects" tab.
 
 
-**Telematics Data Analysis Project**
+Here is a summary of the electives that I have taken in my fields of study at the University of Illinois.
+
+**Economics:**  
+- ECON 414: Urban Economics  
+- ECON 471: Applied Econometrics  
+- ECON 474: Econometrics of Policy Evaluation  
+- ECON 490: Financial Economics  
+
+**Statistics:**  
+- [STAT 385: Statistical Programming Methods](stat385.stat.illinois.edu)  
+- STAT 425: Applied Regression and Design  
+- [STAT 430: Machine Learning Financial Data](https://www.larryhua.com/teaching/)  
+- [STAT 432: Basics of Statistical Learning](https://daviddalpiaz.github.io/stat432sp18/)  
+- STAT 440: Statistical Data Management  
+- STAT 448: Advanced Data Analysis  
+- STAT 541: Predictive Analytics  
+- [STAT 542: Statistical Learning](https://publish.illinois.edu/liangf/teaching/stat-542/)
 
 
-### Research Description
 
 
-**Study of Proctoring Methods on an Introductory Microeconomics Course**
+
 
