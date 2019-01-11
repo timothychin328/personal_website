@@ -2,10 +2,20 @@
 title: "About"
 ---
 
-Could shift the following here
-Extended Bio
-CV/Resume
-LinkedIn and GitHub (TBD)
-Department of Statistics Website
-State Farm RDC Website
-Project Descriptions or Courses taken
+### Internship Description
+
+
+**Machine Learning and Data Science Comparison Project**
+
+
+**Auto and Homeowners' Econometrics Project**
+
+
+**Telematics Data Analysis Project**
+
+
+### Research Description
+
+
+**Study of Proctoring Methods on an Introductory Microeconomics Course**
+
