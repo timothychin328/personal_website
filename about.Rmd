@@ -42,6 +42,18 @@ Here is a summary of the electives that I have taken in my fields of study at th
 - [Certificate in Data Science](https://stat.illinois.edu/academics/undergraduate-program/degree-programs/certificate-data-science), UIUC Department of Statistics (May 2017)
 
 
+### Computer Skills
+- **Databases and Repositories:**   
+  - Intermediate: Git, SQL  
+  - Basic: Hive, Impala  
+- **Microsoft Word**  
+  - Proficient: Excel, Outlook, PowerPoint, Word  
+- **Programming and Analysis**  
+  - Advanced: R, SAS  
+  - Intermediate: Python  
+  - Basic: HTML, Java, JavaScript, LaTeX, Spark, SPSS, Stata  
+
+
 ### Interests and Hobbies 
 
 During my free time, I am involved in UIUC's [Statistics Club](https://stat.illinois.edu/illini-statistics-club), [Krannert Center Student Association](http://kcsa.illinois.edu/), and [Illini Dancesport](https://publish.illinois.edu/illinidancesport/).

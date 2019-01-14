@@ -4,12 +4,27 @@ title: "Statistics Resources"
 
 ### Textbooks
 
-Mathematical Statistics: Old School (theory, used for STAT 510)
-ISLR / ESL (machine learning methods, used for 432 and 542)
-DLR (deep learning, used for 430 MLFD)
+Theory: [*Mathematical Statistics, Old School* by John I. Marden](https://www.amazon.com/Mathematical-Statistics-John-I-Marden/dp/1542439604/ref=sr_1_1?ie=UTF8&qid=1547446031&sr=8-1&keywords=mathematical+statistics+old+school)   
+*Textbook used for STAT 510 at the University of Illinois*
+  
+Machine Learning Methods (Graduate): [*The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_fkmr0_2?ie=UTF8&qid=1547446126&sr=8-2-fkmr0&keywords=esl+tibshirani)  
+*Textbook used for STAT 542 at the University of Illinois*
+  
+Machine Learning Methods (Undergraduate): [*An Introduction to Statistical Learning* by James, Witten, Hastie, and Tibshirani](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_fkmr0_1?ie=UTF8&qid=1547446126&sr=8-1-fkmr0&keywords=esl+tibshirani)  
+*Textbook used for STAT 432 at the University of Illinois*
+  
+Deep Learning (Neural Networks): [*Deep Learning with R* by Chollet and Allaire](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X/ref=sr_1_3?ie=UTF8&qid=1547446307&sr=8-3&keywords=deep+learning+with+r)   
+*Textbook used for STAT 430: Machine Learning for Financial Data at the University of Illinois*
+
 
 
 ### R Resources
+
+[R Studio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+  
+[*R for Data Science* by Hadley Wickham and Garrett Grolemund](https://r4ds.had.co.nz/)
+  
+[Tidyverse](https://www.tidyverse.org/)
 
 Hadley Wickham Book
 ggplot2 guide
@@ -18,16 +33,21 @@ R Cheatsheets
 
 ### SAS Resources
 
-HP Procedures
-ODS graphics designer
-SAS Studio
-Other SAS Resources
-
+[SAS User's Guide for High-Performance Procedures](https://support.sas.com/documentation/cdl/en/stathpug/68163/PDF/default/stathpug.pdf)
+  
+[A Comparison of HP and Legacy Procedures](https://support.sas.com/resources/papers/proceedings16/11670-2016.pdf)
+  
+[SAS Enterprise Miner 14.1 High-Performance Procedures](https://support.sas.com/documentation/onlinedoc/miner/em14/emhpprcref.pdf)
+  
+[SAS 9.3 ODS Graphics Designer User's Guide](https://support.sas.com/documentation/cdl/en/grstatdesignug/63226/PDF/default/grstatdesignug.pdf)
+  
+[SAS Studio 5.1 User's Guide](http://documentation.sas.com/api/docsets/webeditorug/5.1/content/webeditorug.pdf?locale=en)
+  
 ### GitHub Resources
 
 See Starred repositories
 
-TO-DO: Add PDFs to resume, cv, data science certificate, other awards (if I can find them). Add coding languages and proficiencies. Add more links to study abroad work or econ awards. Add former affiliations (Econ Ambassadors and DFA)
+TO-DO: Add PDFs to resume, cv, data science certificate, other awards (if I can find them).  Add more links to study abroad work or econ awards. Add former affiliations (Econ Ambassadors and DFA)
 
 ```{r}
 summary(mtcars$mpg)
