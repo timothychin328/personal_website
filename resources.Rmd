@@ -1,62 +1,138 @@
 ---
 title: "Statistics Resources"
+output: 
+  html_document: 
+    toc: true
 ---
+***
+***
+***
 
-### Textbooks
-
-Theory: [*Mathematical Statistics, Old School* by John I. Marden](https://www.amazon.com/Mathematical-Statistics-John-I-Marden/dp/1542439604/ref=sr_1_1?ie=UTF8&qid=1547446031&sr=8-1&keywords=mathematical+statistics+old+school)   
-*Textbook used for STAT 510 at the University of Illinois*
+### Textbooks  
+* Deep Learning (Neural Networks): [*Deep Learning with R* by Chollet and Allaire](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X/ref=sr_1_3?ie=UTF8&qid=1547446307&sr=8-3&keywords=deep+learning+with+r)   
+*Textbook used for STAT 430: Machine Learning for Financial Data at the University of Illinois*
   
-Machine Learning Methods (Graduate): [*The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_fkmr0_2?ie=UTF8&qid=1547446126&sr=8-2-fkmr0&keywords=esl+tibshirani)  
+* Machine Learning Methods (Graduate): [*The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=sr_1_fkmr0_2?ie=UTF8&qid=1547446126&sr=8-2-fkmr0&keywords=esl+tibshirani)  
 *Textbook used for STAT 542 at the University of Illinois*
   
-Machine Learning Methods (Undergraduate): [*An Introduction to Statistical Learning* by James, Witten, Hastie, and Tibshirani](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_fkmr0_1?ie=UTF8&qid=1547446126&sr=8-1-fkmr0&keywords=esl+tibshirani)  
+* Machine Learning Methods (Undergraduate): [*An Introduction to Statistical Learning* by James, Witten, Hastie, and Tibshirani](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370/ref=sr_1_fkmr0_1?ie=UTF8&qid=1547446126&sr=8-1-fkmr0&keywords=esl+tibshirani)  
 *Textbook used for STAT 432 at the University of Illinois*
   
-Deep Learning (Neural Networks): [*Deep Learning with R* by Chollet and Allaire](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X/ref=sr_1_3?ie=UTF8&qid=1547446307&sr=8-3&keywords=deep+learning+with+r)   
-*Textbook used for STAT 430: Machine Learning for Financial Data at the University of Illinois*
+* Theory: [*Mathematical Statistics, Old School* by John I. Marden](https://www.amazon.com/Mathematical-Statistics-John-I-Marden/dp/1542439604/ref=sr_1_1?ie=UTF8&qid=1547446031&sr=8-1&keywords=mathematical+statistics+old+school)   
+*Textbook used for STAT 510 at the University of Illinois*
+  
+  
+***
+  
+### YouTube
 
+* [Crash Course Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
 
+* [Khan Academy Probability and Statistics](https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/featured)
+  
+***
+  
+### Podcasts  
 
+* [Data Skeptic](https://dataskeptic.com/)
+
+* [Data Stories](http://datastori.es/)
+  
+***
+  
 ### R Resources
 
-[R Studio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+* [Download and Install R - Comprehensive R Archive Network (CRAN) website](https://cran.r-project.org/)
   
-[*R for Data Science* by Hadley Wickham and Garrett Grolemund](https://r4ds.had.co.nz/)
+* [All R Package Documentation from CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html)
   
-[Tidyverse](https://www.tidyverse.org/)
+* [Awesome R](https://awesome-r.com/)  
+  
+* [R-Bloggers](https://www.r-bloggers.com/)
+  
+* [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+  
+* [Tidyverse](https://www.tidyverse.org/)  
+  
+* [Useful R Packages from RStudio](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
+  
+#### R Textbooks  
+  
+* [*R for Data Science* by Hadley Wickham and Garrett Grolemund](https://r4ds.had.co.nz/)
 
-Hadley Wickham Book
-ggplot2 guide
-shiny guide
-R Cheatsheets
-
+* [*Advanced R* by Hadley Wickham](https://adv-r.hadley.nz/)
+  
+  
+***  
+  
 ### SAS Resources
-
-[SAS User's Guide for High-Performance Procedures](https://support.sas.com/documentation/cdl/en/stathpug/68163/PDF/default/stathpug.pdf)
+* [A Comparison of SAS HP and Legacy Procedures](https://support.sas.com/resources/papers/proceedings16/11670-2016.pdf) 
   
-[A Comparison of HP and Legacy Procedures](https://support.sas.com/resources/papers/proceedings16/11670-2016.pdf)
+* [SAS/STAT 14.1 User's Guide for High-Performance Procedures](https://support.sas.com/documentation/cdl/en/stathpug/68163/PDF/default/stathpug.pdf)
   
-[SAS Enterprise Miner 14.1 High-Performance Procedures](https://support.sas.com/documentation/onlinedoc/miner/em14/emhpprcref.pdf)
+* [SAS 9.3 ODS Graphics Designer User's Guide](https://support.sas.com/documentation/cdl/en/grstatdesignug/63226/PDF/default/grstatdesignug.pdf)
   
-[SAS 9.3 ODS Graphics Designer User's Guide](https://support.sas.com/documentation/cdl/en/grstatdesignug/63226/PDF/default/grstatdesignug.pdf)
+* [SAS Data Visualization Blog](https://blogs.sas.com/content/topic/data-visualization/)
   
-[SAS Studio 5.1 User's Guide](http://documentation.sas.com/api/docsets/webeditorug/5.1/content/webeditorug.pdf?locale=en)
+* [SAS E-Learning Modules](https://support.sas.com/edu/elearning.html?ctry=us&productType=library)  
   
-### GitHub Resources
+* [SAS Enterprise Miner 14.1 High-Performance Procedures](https://support.sas.com/documentation/onlinedoc/miner/em14/emhpprcref.pdf)
+  
+* [SAS Statistical Procedures](http://support.sas.com/documentation/cdl/en/proc/61895/HTML/default/viewer.htm#a000146900.htm)
+  
+* [SAS Studio 5.1 User's Guide](http://documentation.sas.com/api/docsets/webeditorug/5.1/content/webeditorug.pdf?locale=en)
+   
+* [Texas A&M University SAS Resources](http://dist.stat.tamu.edu/flash/SAS/)
+  
+***
+  
+### GitHub Resources (Data)
+* ["Awesome R" Packages](https://github.com/qinwf/awesome-R)
+  
+* ["Bad Data" Guide](https://github.com/Quartz/bad-data-guide)
+  
+* [Create Word Clouds](https://github.com/Lchiffon/wordcloud2)
+  
+* [Data Sharing for Statisticians](https://github.com/jtleek/datasharing)
+  
+* [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+  
+* [Developing R Packages](https://github.com/jtleek/rpackages)
+   
+* [Guide for Giving Academic  Talks](https://github.com/jtleek/talkguide)
+  
+* [List of Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
+   
+* [Machine Learning and Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+  
+* [Machine Learning in Python](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+  
+***  
+  
+### GitHub Resources (Computer Science) 
+* [Coding Interview Guide](https://github.com/jwasham/coding-interview-university)
+  
+* [Computer Science Links, Lists, and  Resources](https://github.com/sindresorhus/awesome)
+  
+* [Computer Science Papers](https://github.com/papers-we-love/papers-we-love)
+  
+***  
+  
+### Online Help Forums
+* [Analytics Vidhya](https://discuss.analyticsvidhya.com/?utm_source=blog-navbar&utm_medium=web)
 
-See Starred repositories
-
-TO-DO: Add PDFs to resume, cv, data science certificate, other awards (if I can find them).  Add more links to study abroad work or econ awards. Add former affiliations (Econ Ambassadors and DFA)
-
-```{r}
-summary(mtcars$mpg)
-```
-
-```{r}
-# ggplot(mtcars, aes(cyl)) + geom_bar()
-```
-
-
+* [Cross Validated](https://stats.stackexchange.com/)
+  
+* [Mathematics Stack Exchange](https://math.stackexchange.com/)
+  
+* [R Studio Community](https://community.rstudio.com/)
+  
+* [R Studio Support](https://support.rstudio.com/hc/en-us)
+  
+* [SAS Support Communities](https://communities.sas.com/)
+  
+* [Stack Overflow](https://stackoverflow.com/)
+  
+***
 
 
