@@ -9,16 +9,16 @@ output:
 ***
 
 ### Textbooks  
-* Deep Learning (Neural Networks): [*Deep Learning with R* by Chollet and Allaire](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X)   
+* Deep Learning (Neural Networks): [*Deep Learning with R* by Chollet and Allaire](https://www.amazon.com/Deep-Learning-R-Francois-Chollet/dp/161729554X){target="_blank"}   
 *Textbook used for STAT 430: Machine Learning for Financial Data at the University of Illinois*
   
-* Machine Learning Methods (Graduate): [*The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman](hhttps://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)  
+* Machine Learning Methods (Graduate): [*The Elements of Statistical Learning* by Hastie, Tibshirani, and Friedman](hhttps://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576){target="_blank"}  
 *Textbook used for STAT 542 at the University of Illinois*
   
-* Machine Learning Methods (Undergraduate): [*An Introduction to Statistical Learning* by James, Witten, Hastie, and Tibshirani](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370)  
+* Machine Learning Methods (Undergraduate): [*An Introduction to Statistical Learning* by James, Witten, Hastie, and Tibshirani](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370){target="_blank"}  
 *Textbook used for STAT 432 at the University of Illinois*
   
-* Theory: [*Mathematical Statistics, Old School* by John I. Marden](https://www.amazon.com/Mathematical-Statistics-John-I-Marden/dp/1542439604)   
+* Theory: [*Mathematical Statistics, Old School* by John I. Marden](https://www.amazon.com/Mathematical-Statistics-John-I-Marden/dp/1542439604){target="_blank"}   
 *Textbook used for STAT 510 at the University of Illinois*
   
   
@@ -26,112 +26,112 @@ output:
   
 ### YouTube
 
-* [Crash Course Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+* [Crash Course Statistics](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr){target="_blank"}
 
-* [Khan Academy Probability and Statistics](https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/featured)
+* [Khan Academy Probability and Statistics](https://www.youtube.com/channel/UCRXuOXLW3LcQLWvxbZiIZ0w/featured){target="_blank"}
   
 ***
   
 ### Podcasts  
 
-* [Data Skeptic](https://dataskeptic.com/)
+* [Data Skeptic](https://dataskeptic.com/){target="_blank"}
 
-* [Data Stories](http://datastori.es/)
+* [Data Stories](http://datastori.es/){target="_blank"}
   
 ***
   
 ### R Resources
 
-* [Download and Install R - Comprehensive R Archive Network (CRAN) website](https://cran.r-project.org/)
+* [Download and Install R - Comprehensive R Archive Network (CRAN) website](https://cran.r-project.org/){target="_blank"}
   
-* [All R Package Documentation from CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html)
+* [All R Package Documentation from CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html){target="_blank"}
   
-* [Awesome R](https://awesome-r.com/)  
+* [Awesome R](https://awesome-r.com/){target="_blank"}  
   
-* [R-Bloggers](https://www.r-bloggers.com/)
+* [R-Bloggers](https://www.r-bloggers.com/){target="_blank"}
   
-* [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+* [RStudio Cheatsheets](https://www.rstudio.com/resources/cheatsheets/){target="_blank"}
   
-* [Tidyverse](https://www.tidyverse.org/)  
+* [Tidyverse](https://www.tidyverse.org/){target="_blank"}  
   
-* [Useful R Packages from RStudio](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
+* [Useful R Packages from RStudio](https://support.rstudio.com/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages){target="_blank"}
   
 #### R Textbooks  
   
-* [*R for Data Science* by Hadley Wickham and Garrett Grolemund](https://r4ds.had.co.nz/)
+* [*R for Data Science* by Hadley Wickham and Garrett Grolemund](https://r4ds.had.co.nz/){target="_blank"}
 
-* [*Advanced R* by Hadley Wickham](https://adv-r.hadley.nz/)
+* [*Advanced R* by Hadley Wickham](https://adv-r.hadley.nz/){target="_blank"}
   
   
 ***  
   
 ### SAS Resources
-* [A Comparison of SAS HP and Legacy Procedures](https://support.sas.com/resources/papers/proceedings16/11670-2016.pdf) 
+* [A Comparison of SAS HP and Legacy Procedures](https://support.sas.com/resources/papers/proceedings16/11670-2016.pdf){target="_blank"} 
   
-* [SAS/STAT 14.1 User's Guide for High-Performance Procedures](https://support.sas.com/documentation/cdl/en/stathpug/68163/PDF/default/stathpug.pdf)
+* [SAS/STAT 14.1 User's Guide for High-Performance Procedures](https://support.sas.com/documentation/cdl/en/stathpug/68163/PDF/default/stathpug.pdf){target="_blank"}
   
-* [SAS 9.3 ODS Graphics Designer User's Guide](https://support.sas.com/documentation/cdl/en/grstatdesignug/63226/PDF/default/grstatdesignug.pdf)
+* [SAS 9.3 ODS Graphics Designer User's Guide](https://support.sas.com/documentation/cdl/en/grstatdesignug/63226/PDF/default/grstatdesignug.pdf){target="_blank"}
   
-* [SAS Data Visualization Blog](https://blogs.sas.com/content/topic/data-visualization/)
+* [SAS Data Visualization Blog](https://blogs.sas.com/content/topic/data-visualization/){target="_blank"}
   
-* [SAS E-Learning Modules](https://support.sas.com/edu/elearning.html?ctry=us&productType=library)  
+* [SAS E-Learning Modules](https://support.sas.com/edu/elearning.html?ctry=us&productType=library){target="_blank"}  
   
-* [SAS Enterprise Miner 14.1 High-Performance Procedures](https://support.sas.com/documentation/onlinedoc/miner/em14/emhpprcref.pdf)
+* [SAS Enterprise Miner 14.1 High-Performance Procedures](https://support.sas.com/documentation/onlinedoc/miner/em14/emhpprcref.pdf){target="_blank"}
   
-* [SAS Statistical Procedures](http://support.sas.com/documentation/cdl/en/proc/61895/HTML/default/viewer.htm#a000146900.htm)
+* [SAS Statistical Procedures](http://support.sas.com/documentation/cdl/en/proc/61895/HTML/default/viewer.htm#a000146900.htm){target="_blank"}
   
-* [SAS Studio 5.1 User's Guide](http://documentation.sas.com/api/docsets/webeditorug/5.1/content/webeditorug.pdf?locale=en)
+* [SAS Studio 5.1 User's Guide](http://documentation.sas.com/api/docsets/webeditorug/5.1/content/webeditorug.pdf?locale=en){target="_blank"}
    
-* [Texas A&M University SAS Resources](http://dist.stat.tamu.edu/flash/SAS/)
+* [Texas A&M University SAS Resources](http://dist.stat.tamu.edu/flash/SAS/){target="_blank"}
   
 ***
   
 ### GitHub Resources (Data and Statistics)
-* ["Awesome R" Packages](https://github.com/qinwf/awesome-R)
+* ["Awesome R" Packages](https://github.com/qinwf/awesome-R){target="_blank"}
   
-* ["Bad Data" Guide](https://github.com/Quartz/bad-data-guide)
+* ["Bad Data" Guide](https://github.com/Quartz/bad-data-guide){target="_blank"}
   
-* [Create Word Clouds](https://github.com/Lchiffon/wordcloud2)
+* [Create Word Clouds](https://github.com/Lchiffon/wordcloud2){target="_blank"}
   
-* [Data Sharing for Statisticians](https://github.com/jtleek/datasharing)
+* [Data Sharing for Statisticians](https://github.com/jtleek/datasharing){target="_blank"}
   
-* [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers){target="_blank"}
   
-* [Developing R Packages](https://github.com/jtleek/rpackages)
+* [Developing R Packages](https://github.com/jtleek/rpackages){target="_blank"}
    
-* [Guide for Giving Academic  Talks](https://github.com/jtleek/talkguide)
+* [Guide for Giving Academic  Talks](https://github.com/jtleek/talkguide){target="_blank"}
   
-* [List of Public Datasets](https://github.com/awesomedata/awesome-public-datasets) 
+* [List of Public Datasets](https://github.com/awesomedata/awesome-public-datasets){target="_blank"} 
    
-* [Machine Learning and Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [Machine Learning and Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials){target="_blank"}
   
-* [Machine Learning in Python](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+* [Machine Learning in Python](https://github.com/rasbt/python-machine-learning-book-2nd-edition){target="_blank"}
   
 ***  
   
 ### GitHub Resources (Computer Science) 
-* [Coding Interview Guide](https://github.com/jwasham/coding-interview-university)
+* [Coding Interview Guide](https://github.com/jwasham/coding-interview-university){target="_blank"}
   
-* [Computer Science Links, Lists, and  Resources](https://github.com/sindresorhus/awesome)
+* [Computer Science Links, Lists, and  Resources](https://github.com/sindresorhus/awesome){target="_blank"}
   
-* [Computer Science Papers](https://github.com/papers-we-love/papers-we-love)
+* [Computer Science Papers](https://github.com/papers-we-love/papers-we-love){target="_blank"}
   
 ***  
   
 ### Online Help Forums
-* [Analytics Vidhya](https://discuss.analyticsvidhya.com/?utm_source=blog-navbar&utm_medium=web)
+* [Analytics Vidhya](https://discuss.analyticsvidhya.com/?utm_source=blog-navbar&utm_medium=web){target="_blank"}
 
-* [Cross Validated](https://stats.stackexchange.com/)
+* [Cross Validated](https://stats.stackexchange.com/){target="_blank"}
   
-* [Mathematics Stack Exchange](https://math.stackexchange.com/)
+* [Mathematics Stack Exchange](https://math.stackexchange.com/){target="_blank"}
   
-* [R Studio Community](https://community.rstudio.com/)
+* [R Studio Community](https://community.rstudio.com/){target="_blank"}
   
-* [R Studio Support](https://support.rstudio.com/hc/en-us)
+* [R Studio Support](https://support.rstudio.com/hc/en-us){target="_blank"}
   
-* [SAS Support Communities](https://communities.sas.com/)
+* [SAS Support Communities](https://communities.sas.com/){target="_blank"}
   
-* [Stack Overflow](https://stackoverflow.com/)
+* [Stack Overflow](https://stackoverflow.com/){target="_blank"}
   
 ***
 
