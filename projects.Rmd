@@ -18,36 +18,35 @@ Starting in January 2019, I continued my work at State Farm as a Modeling and An
 
 Descriptions regarding some of my State Farm intern projects are mentioned below. 
 
-**Data Science Methods and GLM Comparison**
-
+**Data Science Methods and GLM Comparison**  
+In an effort to modernize the statistical techniques used in the insurance industry, this project compared the statistical efficiency of tree-based methods to generalized linear models. I compared the user-friendliness of several high-performance SAS procedures, such as HPGENSELECT and HPFOREST on State Farm data. 
     
-**Auto and Homeowners Econometric Modeling**
+**Auto and Homeowners Econometric Modeling**  
+The fluctuations in the economy play a increasing role in the insurance market as more business decisions are centered around socioeconomic factors. Using data obtained from the Bureau of Labor Statistics and U.S. Census, I ran time series (ARIMA) models to determine the effect of various socioeconomic factors on the insurance industry.    
   
-  
-**Telematics Data Analysis**
-  
+**Telematics Data Analysis**  
+When driving data is collected at the second-by-second level, the ability to model different driving behaviors increases signficantly. Over the courses of several months in the internship, I analyzed driving data to develop enhanced characteristics that make drivers safe and unsafe, as well as develop statistical techniques to properly visualize those relationships.     
   
 ***  
     
 ### Research Description
 
-From October 2015 to February 2018, I worked as an undergraduate research assistant to Clinical Professor of Economics Jose Vazquez. His research was primarily centered around the economics of education, particularly in the areas of e-learning and student engagement. The research project that I worked on with him invovled determining the effect of a proctor on grades in an online and face-to-face course. I conducted extensive literature reviews and experimental designs motivated from a variety of academic journals, including the American Economic Review, Quarterly Journal of Economics, and the Journal of Economic Education. Additional responsibilities included filing all documentation required for the university's IRB approval of our experiments for the duration that I was his research assistant. 
+From October 2015 to February 2018, I worked as an undergraduate research assistant to [Clinical Professor of Economics Jose Vazquez](https://chroniclevitae.com/people/194561-jose-vazquez/profile). His research was primarily centered around the economics of education, particularly in the areas of e-learning and student engagement. The research project that I worked on with him invovled determining the effect of a proctor on exam grades in online and face-to-face courses. I conducted extensive literature reviews and experimental designs motivated from a variety of academic journals, including the American Economic Review, Quarterly Journal of Economics, and the Journal of Economic Education. Additional responsibilities included filing all documentation required for the university's Instructional Review Board approval of our experiments for the duration that I was his research assistant. 
 
-We were able to present our findings from our clinical study at the 87th Annual Southern Economic Conference in Tampa, FL in November 2017. 
-
-[**Effect of Proctoring Methods in an Introductory Microeconomics Course**](https://www.southerneconomic.org/conference-2017/)
-  
+We were able to present our findings from our clinical study at the [87th Annual Southern Economic Conference](https://www.southerneconomic.org/conference-2017/) in Tampa, FL in November 2017. 
   
   
 ***  
   
-### Indepedent Study
+### Study Abroad Experience
 
-[**Study Abroad in Sao Paulo and Rio de Janeiro, Brazil (Spring 2018)**](https://economics.illinois.edu/academics/undergraduate-program/study-abroad/econ-faculty-led-short-term/previous-faculty-led)
+[**Study Abroad in Sao Paulo and Rio de Janeiro, Brazil (Spring Break 2018)**](https://economics.illinois.edu/academics/undergraduate-program/study-abroad/econ-faculty-led-short-term/previous-faculty-led)
 
-- [*Capstone Project*](https://economics.illinois.edu/system/files/inline-files/Tim%20Brazil%20Final%20Project%20-%20Timothy%20Chin.pdf)
+In March of 2018, I was completed a faculty-led short-term study abroad in Brazil, oversaw by [Clinical Professor of Economics and Finance Joe Petry](https://www.business.illinois.edu/faculty/petry.html) and [campus b](https://www.campusb.org/) (formerly campus brasil). Throughout the course of the one week trip, I visited numerous Brazilian startups and banks, seeing the difference in financial development and business practices in comparison to the United States. I also visited various tourist attractions, such as Paulista Avenue in Sao Paulo and the Christ the Redeemer Statue and Copacabana Beach in Rio de Janeiro. My capstone project, "What Makes Brazilian Startups Successful?" is linked below.
 
-[**R Independent Study (Spring 2016)**](https://ytliu0.github.io/Stat390EF-R-Independent-Study-archive/index.html)
+- [*What Makes Brazilian Startups Successful?*](https://economics.illinois.edu/system/files/inline-files/Tim%20Brazil%20Final%20Project%20-%20Timothy%20Chin.pdf)
+
+
 
 
 
