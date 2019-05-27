@@ -106,6 +106,8 @@ output:
 * [Machine Learning and Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials){target="_blank"}
   
 * [Machine Learning in Python](https://github.com/rasbt/python-machine-learning-book-2nd-edition){target="_blank"}
+
+* [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
   
 ***  
   
@@ -120,6 +122,12 @@ output:
   
 ### Online Help Forums
 * [Analytics Vidhya](https://discuss.analyticsvidhya.com/?utm_source=blog-navbar&utm_medium=web){target="_blank"}
+
+* [Analytics Vidhya: Comprehensive Data Science Interview Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-data-science-machine-learning-interview-guide/)
+
+* [Towards Data Science: Big List of Data Science / Machine Learning Interview Questions](https://towardsdatascience.com/the-big-list-of-ds-ml-interview-resources-2db4f651bd63)
+
+* [Towards Data Science: Mastering the Data Science Interview](https://towardsdatascience.com/mastering-the-data-science-interview-15f9c0a558a7)
 
 * [Cross Validated](https://stats.stackexchange.com/){target="_blank"}
   
